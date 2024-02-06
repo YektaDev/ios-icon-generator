@@ -28,7 +28,7 @@ EXAMPLE:
 ```bash
 git clone https://github.com/smallmuou/ios-icon-generator
 cd ios-icon-generator
-chmod 777 ios-icon-generator.sh
+chmod +x ios-icon-generator.sh
 ```
 
 2. Run
